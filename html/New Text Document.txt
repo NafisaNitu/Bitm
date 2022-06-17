@@ -1,0 +1,6 @@
+git config --global user.email "nafisanitu240@gmail.com"
+git config --global user.name "NafisaNitu"
+git clone https://github.com/NafisaNitu/batch4_day-24.git
+git add .
+git commit -m "php folder upload"
+git push
